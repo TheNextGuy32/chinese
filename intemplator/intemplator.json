@@ -1,0 +1,22 @@
+{
+    "orders": [
+        {
+            "name": "Character",
+            "specFilePath": "./specs/characters.json",
+            "templateDirectoryPath": "./templates/character",
+            "outputDirectoryPath": "../characters",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": false
+        },
+        {
+            "name": "Radical",
+            "specFilePath": "./specs/radicals.json",
+            "templateDirectoryPath": "./templates/radical",
+            "outputDirectoryPath": "../radicals",
+            "disabled": false,
+            "dumpContents": true,
+            "isBom": false
+        }
+    ]
+}

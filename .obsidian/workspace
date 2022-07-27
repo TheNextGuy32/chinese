@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "9d1d62a86ee7bed0",
+    "type": "split",
+    "children": [
+      {
+        "id": "734cfc734063dc97",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "characters/3_是.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3b3bf505906916a",
+    "type": "split",
+    "children": [
+      {
+        "id": "621e7460ebf06cfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c89e7c14542df55b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa2a50833a9af2b6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5a2eaee13f136965",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21f543ba1cfb8e7f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5d8b1874ead3004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f0290c95e935c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "characters/3_是.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0eb723e97a027096",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "characters/3_是.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e93165aed09a497d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "14f3228a5a28db23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "characters/3_是.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "734cfc734063dc97",
+  "lastOpenFiles": [
+    "characters/5_了.md",
+    "characters/6_在.md",
+    "characters/7_人.md",
+    "characters/4_不.md",
+    "characters/2_一.md",
+    "characters/1_的.md",
+    "characters/3_是.md",
+    "characters/11_这.md",
+    "characters/10_他.md",
+    "characters/9_我.md"
+  ]
+}
