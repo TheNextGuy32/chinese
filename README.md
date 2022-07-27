@@ -1,10 +1,10 @@
 # Chinese
 
-Top 1500 characters according to (Hanzi DB)[http://hanzidb.org/character-list/by-frequency].
+Top 1500 characters according to [Hanzi DB](http://hanzidb.org/character-list/by-frequency).
 
 ## How to Use
 
-1. Download and install (Obsidian)[https://obsidian.md/]
+1. Download and install [Obsidian](https://obsidian.md/)
 2. Clone this repo
 3. Open the repo using Obsidian
 
