@@ -1,4 +1,4 @@
-# Chinese
+# The First 1500 Chinese Characters in Obsidian
 
 The first 1500 Chinese characters to learn according to [Hanzi DB](http://hanzidb.org/character-list/by-frequency) turned into markdown files processable by Obsidian. Obsidian allows us to view all of the markdown files as nodes in a graph with lines to nodes that represent HSK level, stroke count, and radical usage.
 
