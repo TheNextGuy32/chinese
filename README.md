@@ -2,6 +2,10 @@
 
 Top 1500 characters according to [Hanzi DB](http://hanzidb.org/character-list/by-frequency).
 
+![image](https://user-images.githubusercontent.com/3976080/181281308-70b89d7d-a7a6-4492-9cec-971e36b53fd9.png)
+
+![image](https://user-images.githubusercontent.com/3976080/181281358-e90c0ee7-ad5d-4cba-976b-97e9f4a7b4f2.png)
+
 ## How to Use
 
 1. Download and install [Obsidian](https://obsidian.md/)
