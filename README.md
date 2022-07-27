@@ -2,7 +2,7 @@
 
 Top 1500 characters according to [Hanzi DB](http://hanzidb.org/character-list/by-frequency).
 
-![image](https://user-images.githubusercontent.com/3976080/181281308-70b89d7d-a7a6-4492-9cec-971e36b53fd9.png)
+
 
 ![image](https://user-images.githubusercontent.com/3976080/181281358-e90c0ee7-ad5d-4cba-976b-97e9f4a7b4f2.png)
 
@@ -19,3 +19,7 @@ For the love of God, if you have a better way of algorithmically relating Chines
 ### What I've Tried
 
 Radical usage follows the Pareto Principle and stroke count follows a normal distribution, they don't really chunk characters well.
+
+## Behold
+
+![image](https://user-images.githubusercontent.com/3976080/181281308-70b89d7d-a7a6-4492-9cec-971e36b53fd9.png)
