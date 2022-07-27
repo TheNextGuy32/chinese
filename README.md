@@ -1,8 +1,6 @@
 # Chinese
 
-Top 1500 characters according to [Hanzi DB](http://hanzidb.org/character-list/by-frequency).
-
-
+The first 1500 Chinese characters to learn according to [Hanzi DB](http://hanzidb.org/character-list/by-frequency) turned into markdown files processable by Obsidian. Obsidian allows us to view all of the markdown files as nodes in a graph with lines to nodes that represent HSK level, stroke count, and radical usage.
 
 ![image](https://user-images.githubusercontent.com/3976080/181281358-e90c0ee7-ad5d-4cba-976b-97e9f4a7b4f2.png)
 
